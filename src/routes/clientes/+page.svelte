@@ -386,6 +386,8 @@
 					<DataTable
 						zebra
 						sortable
+						sortKey="created"
+						sortDirection="descending"
 						headers={[
 							{ key: 'dni', value: 'DNI' },
 							{ key: 'nombre', value: 'Nombre' },

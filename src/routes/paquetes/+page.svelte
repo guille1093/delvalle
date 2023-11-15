@@ -9,6 +9,7 @@
 		Button,
 		TextInput,
 		NumberInput,
+		ComboBox,
 		FormGroup,
 		DatePickerInput,
 		DatePicker,
@@ -281,6 +282,8 @@
 					<DataTable
 						zebra
 						sortable
+						sortKey="created"
+						sortDirection="descending"
 						headers={[
 							{ key: 'nombre', value: 'Destino' },
 							{ key: 'precio', value: 'Precio' },
@@ -438,7 +441,17 @@
 										label="Numero de filas por pagina"
 										bind:value={pageSize}
 									/>
+
+																	<ComboBox
+									placeholder="Ver"
+									selectedId="1"
+									items={[
+										{ id: '0', text: 'Disponibles' },
+										{ id: '1', text: 'Todos' },
+									]}
+								/>
 								</ToolbarMenu>
+
 								<Button icon={Add} on:click={() => (open = true)}>Registrar paquete</Button>
 							</ToolbarContent>
 						</Toolbar>
