@@ -121,8 +121,6 @@ export const actions = {
 			interno
 		};
 
-		console.log('data: ', data);
-
 		try {
 			await locals.pb.collection('projects').update(clienteId, data);
 			return {
