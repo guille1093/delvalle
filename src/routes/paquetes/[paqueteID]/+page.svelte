@@ -221,7 +221,7 @@
 						},
 						{
 							text: [
-								{ text: 'Del Valle Turismo.\n', fontSize: 14, bold: true },
+								{ text: 'Wachnitz Reisen.\n', fontSize: 14, bold: true },
 								{ text: 'Empresa de viajes y turismo \n', fontSize: 10, bold: true },
 								{ text: 'Legajo número: ', bold: true },
 								'18376. \n',
@@ -419,12 +419,8 @@
 <Grid>
 	<Row class="justify-between p-4">
 		<h1>Paquete: {data.paquetes.nombre}</h1>
-
-		<pre>{JSON.stringify(data.paquetes.fechasalida, null, 2)}</pre>
-		<pre>{JSON.stringify(formatoFecha, null, 2)}</pre>
-
 		<ButtonSet class="mr-36 p-4">
-			<Button disabled size="small" on:click={() => (open2 = true)} icon={TrashCan} kind="danger"
+			<Button size="small" on:click={() => (open2 = true)} icon={TrashCan} kind="danger"
 				>Eliminar</Button
 			>
 			<Button size="small" icon={Edit} on:click={() => (open = true)}>Editar</Button>

@@ -212,7 +212,7 @@
 						},
 						{
 							text: [
-								{ text: 'Del Valle Turismo.\n', fontSize: 14, bold: true },
+								{ text: 'Wachnitz Reisen.\n', fontSize: 14, bold: true },
 								{ text: 'Empresa de viajes y turismo \n', fontSize: 10, bold: true },
 								{ text: 'Legajo número: ', bold: true },
 								'18376. \n',
@@ -251,7 +251,7 @@
 					` del año `,
 					{ text: `${createdAnio.toString().toUpperCase()}`, bold: true },
 					`, entre la empresa de viajes y turismo `,
-					{ text: 'DEL VALLE TURISMO', bold: true },
+					{ text: 'Wachnitz Reisen', bold: true },
 					', con domicilio en la calle ',
 					{ text: 'LA RIOJA 2203', bold: true },
 					' de la ciudad de Posadas, Provincia de Misiones, y la parte contratante el Sr/a ',
@@ -296,16 +296,16 @@
 				ul: [
 					'Todos los servicios que estén expresamente detallados en el programa elegido.',
 					'No Incluye: Extras en los hoteles, lavado, planchado, llamadas telefónicas, entradas a los parques y complejos turísticos, así como cualquier otro gasto de carácter personal. El organizador no se hace responsable por problemas de salud en general que padezca el viajero en el transcurso de la excursión, pudiendo este contratar, como servicio adicional, una asistencia de salud a su exclusivo cargo.',
-					'Traslado: Desde La Empresa Del Valle Turismo al destino elegido y viceversa, en ómnibus o minibús acondicionado para viajes especiales de larga distancia, provisto con Aire Acondicionado, TV, Video, butacas reclinables y/o semi cama, y coordinación permanente.',
+					'Traslado: Desde La Empresa Wachnitz Reisen al destino elegido y viceversa, en ómnibus o minibús acondicionado para viajes especiales de larga distancia, provisto con Aire Acondicionado, TV, Video, butacas reclinables y/o semi cama, y coordinación permanente.',
 					'Alojamiento: De acuerdo a la categoría del hotel según el programa elegido por el/los pasajeros.',
-					'Responsabilidad: El pasajero cuenta con seguro de responsabilidad civil durante el viaje a cargo de la Empresa transportadora. El operador de Del Valle Turismo declina toda responsabilidad por cualquier daño o inconveniente que el/los pasajeros o sus pertenencias pudieran sufrir por huelgas, accidentes y sus consecuencias, enfermedades, robos o pérdidas o daños de equipajes u objetos personales, sean cuales fueren sus causas durante los días de la excursión contratada.',
-					'Documentación: El operador de Del Valle Turismo declina toda responsabilidad en caso de ser rechazado por las autoridades Policiales, Migratorias y Aduaneras. Cualquier gasto que se origine correrá por cuenta del pasajero. En este caso, se aplicarán las condiciones establecidas para anulaciones o desistimiento voluntario sin derecho a ninguna indemnización.',
+					'Responsabilidad: El pasajero cuenta con seguro de responsabilidad civil durante el viaje a cargo de la Empresa transportadora. El operador de Wachnitz Reisen declina toda responsabilidad por cualquier daño o inconveniente que el/los pasajeros o sus pertenencias pudieran sufrir por huelgas, accidentes y sus consecuencias, enfermedades, robos o pérdidas o daños de equipajes u objetos personales, sean cuales fueren sus causas durante los días de la excursión contratada.',
+					'Documentación: El operador de Wachnitz Reisen declina toda responsabilidad en caso de ser rechazado por las autoridades Policiales, Migratorias y Aduaneras. Cualquier gasto que se origine correrá por cuenta del pasajero. En este caso, se aplicarán las condiciones establecidas para anulaciones o desistimiento voluntario sin derecho a ninguna indemnización.',
 					'El pasajero deberá ir provisto de: DNI, Cédula de la Policía Federal o Pasaporte, según corresponda. ARGENTINOS CON DOBLE CIUDADANÍA deberán tener pasaporte argentino válido. EXTRANJEROS RESIDENTES EN EL PAÍS deben presentar el pasaporte del país de origen, cédula de identidad y visado si fuese necesario.',
-					'DERECHO DE PERMANENCIA: El operador Del Valle Turismo se reserva el derecho de hacer abandonar el tour en cualquier circunstancia o lugar a toda aquella persona que, por su conducta o modo de obrar, cause malestar al grupo y ponga en peligro el normal desarrollo de la excursión. Esta persona no tendrá derecho alguno a exigir indemnización por los servicios no utilizados.',
-					'Cantidad Mínima: El operador Del Valle Turismo se reserva el derecho de cancelar algunas salidas establecidas cuando no se complete la cantidad mínima de (30) treinta personas en ómnibus o en minibús (17) pasajeros inscritos. En este caso, se les reintegrará la totalidad del dinero abonado hasta la fecha, sin ningún tipo de interés u otro tipo de ajuste. La empresa comunicará 5 (cinco) días antes de la salida la suspensión del viaje.',
+					'DERECHO DE PERMANENCIA: El operador Wachnitz Reisen se reserva el derecho de hacer abandonar el tour en cualquier circunstancia o lugar a toda aquella persona que, por su conducta o modo de obrar, cause malestar al grupo y ponga en peligro el normal desarrollo de la excursión. Esta persona no tendrá derecho alguno a exigir indemnización por los servicios no utilizados.',
+					'Cantidad Mínima: El operador Wachnitz Reisen se reserva el derecho de cancelar algunas salidas establecidas cuando no se complete la cantidad mínima de (30) treinta personas en ómnibus o en minibús (17) pasajeros inscritos. En este caso, se les reintegrará la totalidad del dinero abonado hasta la fecha, sin ningún tipo de interés u otro tipo de ajuste. La empresa comunicará 5 (cinco) días antes de la salida la suspensión del viaje.',
 					'Cancelaciones: Una vez confirmados los servicios, la cancelación de los mismos sufrirá una retención del 10% del total de la excursión si esta se produce con una anticipación de 20 días o más a la fecha de salida. Si la cancelación se realiza entre 20 días y 10 días antes, la retención será del 20%. En caso de cancelación con menos de 10 días de anticipación, la retención será del 50% del valor total de la excursión. Si se produce una cancelación en menos de 5 (cinco) días, la retención será del 100%. Como alternativa, se podrá ceder o transferir a otra persona, con la condición de que no esté inscrita, o la Empresa otorgará una nota de crédito para otra excursión futura.',
 					'COSTO DE LA EXCURSIÓN: El precio está expresado en dólares estadounidenses y está sujeto a modificación según la cotización del día. El costo no sufrirá variación una vez abonada la totalidad de la excursión.',
-					'DE CONOCIMIENTO DEL PASAJERO: El simple hecho de inscribirse para tomar parte en los viajes detallados en el presente folleto implica la total conformidad, aceptación y conocimiento de todas y cada una de las condiciones generales mencionadas anteriormente. La Empresa Del Valle Turismo.'
+					'DE CONOCIMIENTO DEL PASAJERO: El simple hecho de inscribirse para tomar parte en los viajes detallados en el presente folleto implica la total conformidad, aceptación y conocimiento de todas y cada una de las condiciones generales mencionadas anteriormente. La Empresa Wachnitz Reisen.'
 				],
 				style: 'list'
 			},
@@ -533,7 +533,7 @@
 						días del mes de <strong class="uppercase tracking-tight">{createdMes}</strong>
 						del año
 						<strong class="uppercase tracking-tight">{createdAnio}</strong>, entre la empresa de
-						viajes y turismo <strong class="">DEL VALLE TURISMO</strong>, con domicilio en la calle
+						viajes y turismo <strong class="">Wachnitz Reisen</strong>, con domicilio en la calle
 						<strong class="uppercase tracking-tight">La Rioja 2203</strong> de la ciudad de
 						<strong class="uppercase tracking-tight">Posadas, Provincia de Misiones,</strong>
 						y la parte contratante el Sr/a

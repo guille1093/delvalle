@@ -79,7 +79,7 @@
 			/>
 		</div>
 		<div class="w-full xl:w-1/2 p-8">
-			<h1>Del Valle Turismo</h1>
+			<h1>Wachnitz Reisen</h1>
 			<p>Empresa de viajes y turismo</p>
 			<h4 class="mt-14 mb-4">Inicie sesión en su cuenta</h4>
 			<form bind:this={loginform} action="?/login" method="POST" use:enhance={submitLogin}>

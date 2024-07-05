@@ -72,7 +72,7 @@
 <Breakpoint bind:size on:change />
 
 <svelte:head>
-	<title>Del Valle Turismo</title>
+	<title>Wachnitz Reisen</title>
 	<meta
 		name="description"
 		content="Software de gestión y control de ventas de paquetes turisticos"
@@ -84,8 +84,8 @@
 {:else}
 	<Header
 		href="/"
-		uiShellAriaLabel="Del Valle"
-		company="Del Valle"
+		uiShellAriaLabel="Wachnitz Reisen"
+		company="Wachnitz Reisen"
 		platformName="Empresa de turismo"
 		bind:isSideNavOpen
 	>
